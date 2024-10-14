@@ -3,7 +3,6 @@
 ##### Player contact and foul detection in sports using AI based video analysis.
 This app is deployed at : [https://virtual-assistant-referee.streamlit.app/](https://virtual-assistant-referee.streamlit.app/)
  
-```
 ## Project Description
 <img src="./Extras/2.jpg">
 <img src="./Extras/3.jpg">
